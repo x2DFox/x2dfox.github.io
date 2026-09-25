@@ -27,7 +27,7 @@ body {
 
 .title {
     color: #ffffff;
-    max-width: 440px;             /* ширина заголовка */
+    max-width: 360px;             /* ширина заголовка */
     margin: 30px auto 10px auto;  /* отступы по часовой стрелке */
     text-align: center;           /* центрирование текста */
     font-size: 32px;              /* размер текста */
